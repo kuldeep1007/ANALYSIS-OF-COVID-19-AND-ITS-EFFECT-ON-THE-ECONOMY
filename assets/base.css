@@ -1,0 +1,30 @@
+body{
+    color: rgb(223, 79, 79);
+    background-color: black
+}
+h1{
+    color: rgb(210, 223, 95);
+}
+hr{
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#company_stock_ip_others{
+    
+    width: 30%;
+    height: 30px;
+}
+#_dash-app-content{
+    padding: 40px;
+    margin: 0 15vw;
+}
+.app--title,.app--subt{
+    text-align: center;
+}
+.Select-control,.Select-menu-outer{
+    width: 20vw;
+    margin-bottom: 10px;
+}
+.inline-t{
+    display: inline;
+}
